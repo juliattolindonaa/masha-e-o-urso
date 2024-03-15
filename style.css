@@ -1,0 +1,43 @@
+body 
+{
+  background-color: #ff4968;
+  text-align: center;
+}
+h1 
+{
+  color: rgb(255, 255, 255);
+  border-style: solid;
+  border-color:white;  
+  border-width:2px;
+  padding: 10px;
+}
+#nome
+{
+  text-decoration: underline;
+  font-size:40px;
+  color: yellow;
+  background: white;
+}
+a
+{
+  color: blue;
+  font-size: 20px;
+  border-style: dashed;
+  border-color: darkblue;
+  border-width: 2px;
+  padding: 10px;
+  border-radius: 20px;
+}
+
+p{
+  color: darkred;
+  word-spacing: 10px;
+  font-variant: small-caps;
+  font-size: 20px;
+  font-family: Arial;
+}
+
+.informacoes{
+    color: darkblue;
+    font-size: 18px;
+}
